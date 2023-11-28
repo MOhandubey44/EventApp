@@ -6,7 +6,7 @@ Welcome to EventApp! This application facilitates event management and creation 
 
 ## Features
 
-- **Create Events:** Easily create new events by providing event details such as name, date, time, location, and description.
+- **Create Events:** Easily create new events by providing event details such as name, date, time and loacation.
 - **Event Listing:** View a list of all created events, including their details like date, time, name, and location.
 - **Delete Events:** Delete events from the list as needed.
 - **Responsive Design:** The app is designed to be responsive and works well across various devices.
